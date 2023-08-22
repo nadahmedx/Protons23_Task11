@@ -11,6 +11,9 @@ def calculate(a, b, operation):
 def add(x, y):
     return x + y
 
+def sub(x, y):
+    return x - y
+
 num1 = #TODO INPUT FROM USER
 num2 = #TODO INPUT FROM USER
 op = #TODO INPUT FROM USER
